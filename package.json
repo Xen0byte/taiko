@@ -79,7 +79,7 @@
     "clean-css": "^5.3.0",
     "cssnano": "^5.1.7",
     "devtools-protocol": "0.0.995510",
-    "dtslint": "^3.4.2",
+    "dtslint": "^4.2.1",
     "eleventy-plugin-toc": "^1.1.5",
     "eslint": "^8.14.0",
     "eslint-config-airbnb": "^19.0.4",
